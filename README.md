@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-poston)](https://github.com/mr-poston/github-readme-stats)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
