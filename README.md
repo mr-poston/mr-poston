@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-poston&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-poston&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-poston)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 - 👯 I’m looking to collaborate on ...
